@@ -1,0 +1,14 @@
+.list {
+  padding-right: 5px;
+}
+.button {
+  background-color: transparent;
+  text-decoration: underline;
+  border: none;
+  color: #7b8794;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.active-tab-btn {
+  color: #2563eb;
+}
